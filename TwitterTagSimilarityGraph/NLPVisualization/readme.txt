@@ -1,14 +1,13 @@
-ReadMe:
-depends on ../lib/d3.v5.min.js
+Force Graph Displaying Semantic Similarity of Different Twitter Tags
 
-python script requires
+JS dependencies: 
+d3.v5.min.js
+
+python dependencies:
 spacy
 numpy
 pandas
-
-spacy install process:
-install spacy via pip or conda
-run "python -m spacy download en_core_web_md" for NLP model
+run "python -m spacy download en_core_web_md" 
 
 
 
